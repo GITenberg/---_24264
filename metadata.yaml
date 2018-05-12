@@ -1,0 +1,32 @@
+_repo: '---_24264'
+_version: 0.1.0
+alternative_title:
+- A Dream Of Red Mansions
+- Hong lou meng
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cao, Xueqin
+    alias: 曹雪芹
+    birthdate: 1715
+    deathdate: 1763
+    gutenberg_agent_id: '3092'
+    url: http://www.gutenberg.org/2009/agents/3092
+    wikipedia: http://en.wikipedia.org/wiki/Cao_Xueqin
+description: ''
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24264'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Upper class -- China -- Fiction'
+- !lcsh 'China -- History -- Qing dynasty, 1644-1912 -- Fiction'
+title: 紅樓夢
+url: http://www.gutenberg.org/ebooks/24264
